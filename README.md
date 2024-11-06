@@ -26,5 +26,10 @@ You should set up your own virtual environment on your laptop to run all the not
     Save the file.
 5. Download dataset from Google drive link
 6. Ensure your directory structure looks like this:
-```project-root/ ├── src/ ├── dataset/ ├── key.env ├── requirements.txt └── README.md ```
+project-root/
+├── src/
+├── dataset/
+├── key.env
+├── requirements.txt
+└── README.md
 
