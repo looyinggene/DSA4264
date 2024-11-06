@@ -160,13 +160,7 @@ To assess passenger volume trends, each service was labelled as "Decreasing" onl
 **Standardisation:**
 For fair comparison across bus routes, the Change metric was normalised using the TotalStops feature, yielding per-stop values. The Change values were then standardised using z-scores, which measured each route’s change relative to the dataset's mean and standard deviation. To add context, the standardised values were adjusted for signs based on the trend, giving positive values for increases and negative values for decreases, thereby aligning with the observed trend direction.
 
-$$
-\text{Trend} = 
-\begin{cases} 
-\text{"Decreasing"} & \text{if } \text{Volume}_{\text{July}} > \text{Volume}_{\text{August}} > \text{Volume}_{\text{September}} \\
-\text{"Increasing"} & \text{otherwise}
-\end{cases}
-$$
+![image](https://hackmd.io/_uploads/SJRjhsubkl.png)
 
 $$
 \text{Normalized Change} = \frac{\text{Change in Volume}}{\text{Total Stops}}
