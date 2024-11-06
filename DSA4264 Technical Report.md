@@ -1,8 +1,3 @@
----
-title: DSA4264 Technical Report
-
----
-
 # DSA4264 Technical Report
 
 **Project: Problem 1 Parallel bus routes to MRT lines**  
@@ -89,17 +84,8 @@ $$
 Since we are emphasising on the bus routes that run parallel consecutively to any train line for a large extent of the bus route, we proceed to calculate the weighted parallel score by weighing the parallel score across all train lines.
 
 We define 
-$$
-\text{Max_Score} = \max(\text{Parallel Score})
-$$
+![Screenshot 2024-11-06 at 16.39.16](https://hackmd.io/_uploads/B1xdji_Wyg.png)
 
-$$
-\text{Other_Score} = \sum \text{Parallel Score} - \text{Max_Score}
-$$
-
-$$
-\text{Weighted Parallel Score} = \text{Max_Score} \cdot \alpha + \beta \cdot \text{Other_Score}
-$$
 
 
 In the case where a bus service runs in two directions, the mean of composite parallel score will be taken.

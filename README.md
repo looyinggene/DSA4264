@@ -1,8 +1,3 @@
----
-title: 'Project Name: Analysis of Parallel Bus Routes to MRT Lines'
-
----
-
 # Project: Analysis of Parallel Bus Routes to MRT Lines
 
 ## Project Overview
