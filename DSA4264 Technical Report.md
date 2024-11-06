@@ -311,8 +311,10 @@ BusRouter served as a secondary validation method, supplementing the quantitativ
 
 ![bus_67](https://hackmd.io/_uploads/SkT6tY_Wkg.png)
 <center>Diagram 10: Top-ranked Bus Service 67 </center>
+<br>
 
 **Phase 2 :**
+
 The diagrams below are scatterplots generated from KNN Clustering.
 <table>
   <tr>
@@ -336,7 +338,7 @@ The diagrams below are scatterplots generated from KNN Clustering.
     </td>
   </tr>
 </table>
-<center>Diagram 11: Scaterplots for Clustering </center>
+<center>Diagram 11: Scatterplots for Clustering </center>
 
 
 The diagrams below are dendograms generated from hierarchical clustering.
