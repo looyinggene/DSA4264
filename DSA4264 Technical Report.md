@@ -310,7 +310,7 @@ BusRouter served as a secondary validation method, supplementing the quantitativ
 <br>
 
 ![bus_67](https://hackmd.io/_uploads/SkT6tY_Wkg.png)
-<center>Diagram 10: Top-ranked Bus Service 60 </center>
+<center>Diagram 10: Top-ranked Bus Service 67 </center>
 
 **Phase 2 :**
 The diagrams below are scatterplots generated from KNN Clustering.
