@@ -24,3 +24,12 @@ You should set up your own virtual environment on your laptop to run all the not
     Open key.env and add the following line, replacing YOUR_API_KEY with the API key you obtained from LTA DataMall:
 `API_KEY=YOUR_API_KEY`
     Save the file.
+5. Download dataset from Google drive link
+6. Ensure your directory structure looks like this:
+   project-root/
+├── src/
+├── dataset/
+├── key.env
+├── requirements.txt
+└── README.md
+
